@@ -1,0 +1,12 @@
+De javascript library, die hier bijgevoegd is, betreft mijn eerste js library die ik in php heb toegepast.
+
+Functionaliteiten zijn:
+- Progression overview (handling)
+- Input wizard
+- Error handling
+- State handling
+- Tooltip handling
+
+Inmiddels herken ik gemakkelijk overbodige code in de algoritmen.
+De functionaliteit die hierin is verzameld had, zo meen ik nu, beter over verschillende klassen kunnen worden verspreid.
+Dit is MBO niveau, waar OO alleen in basale vorm wordt uitgelegd. Op het HBO ben ik uiteraard tot betere inzichten gekomen.
